@@ -12,7 +12,7 @@ And to *emphasis* the text we use styling text such as:
 ~~Oops~~
 
 Also we can add emojies by writing :EMOJIECODE:
-for example :❤you
+for example :heart: you
 
 To make unorderd list type - or * .
 Ex: 
@@ -26,4 +26,11 @@ Or:
   
   shakespeare
   > to be or not to be
+  
+  ![shakespeare](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cobbe_portrait_of_Shakespeare.jpg/417px-Cobbe_portrait_of_Shakespeare.jpg)
+  
 
+
+### About me:
+I am Ahmad abdulakreem. 
+18yrs old.
