@@ -1,5 +1,7 @@
 #SUMMARY
- **github** is a website where peopl can learn, share, and work together to build software. <br\>
+
+ **github** is a website where peopl can learn, share, and work together to build software.
+ 
 Using Headings by adding (#) from 1 to 6 to choose the size of the heading.
 Example:
 # Largest Heading
