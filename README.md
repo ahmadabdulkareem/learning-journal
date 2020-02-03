@@ -1,5 +1,5 @@
 #SUMMARY
-
+ **github** is a website where peopl can learn, share, and work together to build software. <br\>
 Using Headings by adding (#) from 1 to 6 to choose the size of the heading.
 Example:
 # Largest Heading
@@ -32,5 +32,9 @@ Or:
 
 
 ### About me:
-I am Ahmad abdulakreem. 
+Ahmad abdulakreem. 
 18yrs old.
+           
+     objects
+        markdown:
+*[link](https://ahmadabdulkareem.github.io/learning-journal/Learn-markdown)*
