@@ -29,10 +29,21 @@ resul= true
 ### && logical and.
 ### || logical or.
 ### ! logical not.
-##SWITCH STATEMENTS:
+
+## SWITCH STATEMENTS:
+
 **A switch statement starts with a
 variable called the switch value.** 
+## example:
+switch (level) {
+case 'One ':
+title= 'Level 1 ' ;
+break; 
 
-A for loop is often used to loop
-through the items in an array
+## loops:
+1.FOR example: for (vari=0; i<10 ; i++>){ document.write(i); }
+
+2.WHILE example: while (i<10){ document.write(i); }
+
+3. WHILE example: do { document.write(i); } while(i<10>)
 
